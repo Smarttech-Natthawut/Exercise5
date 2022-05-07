@@ -1,0 +1,10 @@
+a = int(input ("กรุณาใส่ตัวเลขตั้งต้น :"))
+b = int(input ("กรุณาใส่ตัวเลขที่จะคำนวณ :"))
+c = a + b
+d = a - b
+e = a * b
+f = a / b
+print (a ,"+", b, "=", c)
+print (a ,"-", b, "=", d)
+print (a ,"*", b, "=", e)
+print (a ,"/", b, "=", f)
